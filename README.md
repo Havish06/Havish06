@@ -53,8 +53,8 @@ const havish = {
 | Tool | How I use it |
 |------|-------------|
 | 🤖 **Claude** | Architecture, debugging, full system design, when things are actually broken |
-| 🖱️ **Cursor** | In-editor AI, refactors, autocomplete that actually gets context |
-| 🐙 **GitHub Copilot** | Real-time suggestions while I'm in flow |
+| 🖱️ **Visual Studio Code** | In-editor AI, refactors, autocomplete that actually gets context |
+| 🐙 **Perplexity** | Real-time suggestions while I'm in flow |
 | 💬 **ChatGPT** | Quick lookups, explain concepts, rubber duck with memory |
 
 > *The AI writes the boilerplate. I write the vision.*
@@ -81,10 +81,20 @@ This started as a VIT lab assignment and became a **production-grade system** wi
 
 ---
 
-### 📖 [Echo-Pages](https://github.com/Havish06/Echo-Pages)
-> TypeScript web application — clean, typed, and shipped
+### 📖 [Echo-Pages](https://github.com/Havish06/Echo-Pages) — *what happens when you give Gemini a text editor*
 
-**`TypeScript`**
+> AI-powered app built with Google AI Studio — typed, structured, and live on Vercel
+
+This started as an AI Studio export and became a **full TypeScript React app** with:
+
+- 🤖 **Gemini API powered** — Google's AI at the core, not just a wrapper
+- 🧩 **Component architecture** — clean `components/` + `services/` separation, typed end-to-end
+- 🔧 **Fully typed** — `types.ts`, `utils.ts`, `config.ts`, `constants.ts` — zero any-ing out
+- ⚡ **Vite** — blazing fast dev server and build
+- 🚀 **Live on Vercel** — [echo-pages-hav.vercel.app](https://echo-pages-hav.vercel.app)
+- 66 commits deep — this one actually got iterated on
+
+**`TypeScript`** **`React`** **`Gemini API`** **`Vite`** **`Vercel`**
 
 ---
 
