@@ -36,7 +36,7 @@ const havish = {
   name:      "Havish Karthikeya",
   college:   "VIT Chennai — CSE",
   vibe:      "code first, understand later",
-  tools:     ["Claude", "Cursor", "Copilot", "ChatGPT", "whatever works"],
+  tools:     ["AI Studio", "Claude", "ChatGPT", "Perplexity", "whatever ships"],
   stack:     ["whatever the AI suggests", "MySQL", "Node.js", "TypeScript", "c"],
   approach:  "I describe the idea → AI scaffolds → I make it real",
   motto:     "it's not about knowing everything, it's about shipping everything",
@@ -52,12 +52,13 @@ const havish = {
 
 | Tool | How I use it |
 |------|-------------|
-| 🤖 **Claude** | Architecture, debugging, full system design, when things are actually broken |
+| 🧪 **Google AI Studio** | My main build environment — entire apps, UI, backend, everything, start to finish |
+| 🤖 **Claude** | Architecture, deep debugging, full system design, when things are actually broken |
 | 🖱️ **Visual Studio Code** | In-editor AI, refactors, autocomplete that actually gets context |
-| 🐙 **Perplexity** | Real-time suggestions while I'm in flow |
+| 🐙 **Perplexity** | Real-time web-aware answers while I'm in flow |
 | 💬 **ChatGPT** | Quick lookups, explain concepts, rubber duck with memory |
 
-> *The AI writes the boilerplate. I write the vision.*
+> *I don't open a blank file. I open AI Studio.*
 
 ---
 
@@ -116,6 +117,7 @@ This started as an AI Studio export and became a **full TypeScript React app** w
 
 <div align="center">
 
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
