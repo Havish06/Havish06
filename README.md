@@ -9,7 +9,7 @@
  ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-### i don't debug. i vibe until it works. 🎧
+### I don't debug. I vibe until it works. 🎧
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0DCECA&center=true&vCenter=true&width=600&lines=Vibe+Coder+%F0%9F%8E%A7;AI-Powered+Builder+%F0%9F%A4%96;Full+Stack+%7C+No+Stack+%7C+All+Stack;Ship+first%2C+understand+later+%F0%9F%9A%80)](https://github.com/Havish06)
 
