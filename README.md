@@ -19,7 +19,7 @@
 
 <div align="center">
 
-**`VIT Chennai`** · **`BCSE`** · **`Building with vibes + AI since day 1`**
+**`VIT Chennai`** · **`CSE`** · **`Building with vibes + AI since day 1`**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Havish06&color=0DCECA&style=flat-square&label=people+who+witnessed+the+chaos)](https://github.com/Havish06)
 &nbsp;
@@ -34,10 +34,10 @@
 ```javascript
 const havish = {
   name:      "Havish Karthikeya",
-  college:   "VIT Chennai — BCSE",
+  college:   "VIT Chennai — CSE",
   vibe:      "code first, understand later",
   tools:     ["Claude", "Cursor", "Copilot", "ChatGPT", "whatever works"],
-  stack:     ["whatever the AI suggests", "MySQL", "Node.js", "TypeScript", "C"],
+  stack:     ["whatever the AI suggests", "MySQL", "Node.js", "TypeScript", "c"],
   approach:  "I describe the idea → AI scaffolds → I make it real",
   motto:     "it's not about knowing everything, it's about shipping everything",
   status:    "🟢 always building something",
