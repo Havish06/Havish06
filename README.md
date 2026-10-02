@@ -62,7 +62,6 @@ Right now I'm sharpening two things in parallel: **DSA fundamentals** (for inter
 
 <div align="center">
 
-[![SellerOS](https://github-readme-stats.vercel.app/api/pin/?username=Havish06&repo=SellerOS&theme=tokyonight&hide_border=true)](https://github.com/Havish06/SellerOS)
 [![Echo-Pages](https://github-readme-stats.vercel.app/api/pin/?username=Havish06&repo=Echo-Pages&theme=tokyonight&hide_border=true)](https://github.com/Havish06/Echo-Pages)
 
 </div>
