@@ -125,10 +125,6 @@ I'm looking for remote-friendly internships and entry-level roles in SWE, Data A
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Havish06&theme=tokyonight&hide_border=true&ring=0DCECA&fire=0DCECA&currStreakLabel=0DCECA)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Havish06&theme=tokyonight&no-frame=true&row=1&column=7)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Havish06&theme=tokyo-night&hide_border=true)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Havish06/Havish06/output/github-contribution-grid-snake-dark.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Havish06/Havish06/output/github-contribution-grid-snake.svg">
