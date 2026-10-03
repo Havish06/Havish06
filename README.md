@@ -111,8 +111,8 @@ Decentralized AI governance concept, forked and extended.
 
 I'm looking for remote-friendly internships and entry-level roles in SWE, Data Analysis, or Full-Stack. If you're hiring or just want to talk about something I built:
 
-- 📧 Email: **[add your email here]**
-- 💼 LinkedIn: **[add your LinkedIn here]**
+- 📧 Email: **[havishkanamarlapudi@gmail.com]**
+- 💼 LinkedIn: **[linkedin.com/in/havish-karthikeya-kanamarlapudi-19657830a]**
 - 🐙 GitHub: [github.com/Havish06](https://github.com/Havish06)
 
 ---
