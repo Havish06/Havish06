@@ -1,6 +1,6 @@
 <div align="center">
 
-# Havish Karthikeya
+# Havish Karthikeya Kanamarlapudi
 
 **B.Tech CSE @ VIT Chennai · Full-Stack & Data-minded Engineer**
 
